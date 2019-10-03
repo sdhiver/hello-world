@@ -1,2 +1,3 @@
 # hello-world
-Just a new repository 
+This is sunny new to python coding.
+My favourite sport is cricket.
